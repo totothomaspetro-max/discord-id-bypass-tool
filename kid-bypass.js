@@ -3,7 +3,7 @@
 // Based on: kibty.town & Dziurwa14
 // Full verification via QR code scanning
 // ═══════════════════════════════════════════════════════
-
+https://vx-fe.dcams.app/fedd2a97-bf6d-439c-9651-de6e343aee59?edge=true&language=fr&colorScheme=light&primaryColor=715dec&backgroundColor=ffffff&loadingAccentColor=715dec&qr=true&notice_shown=true&nextPath=id-doc%2Fveratad-capture
 var KIDBypass = (function(){
   'use strict';
 
